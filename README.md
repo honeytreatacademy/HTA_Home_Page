@@ -1,1 +1,3 @@
-this is a readme file
+I love tech
+
+Tech is sweet
